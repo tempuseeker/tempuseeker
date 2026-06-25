@@ -1,2 +1,4 @@
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=tempuseeker&show=reviews&show_icons=true&theme=react#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=tempuseeker&show=reviews&show_icons=true&theme=graywhite#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Readme Card stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=tempuseeker&repo=github-readme-stats#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=tempuseeker&repo=github-readme-stats#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
