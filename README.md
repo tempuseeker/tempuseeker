@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:787878,40:b4b4b4,100:f0f0f0&customColorList=4&height=245&section=header&animation=fadeIn&text=TEMPUSEEKER&fontSize=60&fontAlignY=34&fontColor=242424&desc=Instability%20is%20The%20Stability.&descAlignY=54)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:787878,40:b4b4b4,100:f0f0f0&customColorList=4&height=245&section=header&animation=fadeIn&text=TEMPUSEEKER&fontSize=60&fontAlignY=34&fontColor=303030&desc=Instability%20is%20The%20Stability.&descAlignY=54)
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=tempuseeker&show=reviews&show_icons=false&theme=github_dark#gh-dark-mode-only)](https://github.com/stats-organization/github-stats-extended#gh-dark-mode-only)
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=tempuseeker&show=reviews&show_icons=false&theme=graywhite#gh-light-mode-only)](https://github.com/stats-organization/github-stats-extended#gh-light-mode-only)
