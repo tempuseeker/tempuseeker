@@ -19,7 +19,7 @@ jobs:
         uses: tempuseeker/Vector-Graphic-Lib
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true
+          options: username=${{ github.repository_owner }}&show=reviews&show_icons=false
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
