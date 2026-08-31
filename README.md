@@ -8,6 +8,12 @@
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=tempuseeker&show=reviews&show_icons=false&title_color=dcdce6&text_color=c8c8d2&border_color=a0a0aa&bg_color=0d1117&border_radius=4.5#gh-dark-mode-only)](https://github.com/stats-organization/github-stats-extended#gh-dark-mode-only)
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=tempuseeker&show=reviews&show_icons=false&title_color=1e1e28&text_color=404048&border_color=dcdce1&bg_color=ffffff&border_radius=4.5#gh-light-mode-only)](https://github.com/stats-organization/github-stats-extended#gh-light-mode-only)
 
+# Tools & Skills
+
+# Contact
+
+
+
 
 <!-- Hidden_Functions
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=tempuseeker&show=reviews&show_icons=false&theme=github_dark#gh-dark-mode-only)](https://github.com/stats-organization/github-stats-extended#gh-dark-mode-only)
